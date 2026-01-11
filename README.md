@@ -21,7 +21,7 @@ La cartella contiene diversi esempi di siti web statici:
 
 ##Autore
 * **Francesca DI Pietro**
-* Università: [Università degli studi di Catania]
+* Università degli studi di Catania
 
 --_
 *Progetto realizzato a scopo didattico.*
