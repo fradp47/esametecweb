@@ -20,7 +20,7 @@ La cartella contiene diversi esempi di siti web statici:
 * * **Bootstrap**: Per caroselli e oggetti responsive.
 
 ##Autore
-* **[Francesca DI Pietro]**
+* **Francesca DI Pietro**
 * Università: [Università degli studi di Catania]
 
 --_
